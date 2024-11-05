@@ -170,9 +170,9 @@ github="https://github.com/Naveee08/"
 title="Personal Portfolio Showcase"
 summary="Explore my personal portfolio website, crafted with Next.js, Tailwind CSS, Framer-motion, and enhanced for SEO. Discover my journey, skills, and featured projects, designed to offer visitors a seamless experience and insights into my expertise in full-stack development and interactive design."
 img={project2}
-link="/"
+link="https://navee.vercel.app/"
 type="Portfolio Website"
-github="https://github.com/Naveee08/"
+github="https://github.com/Naveee08/Naveen-Kumar-Portfolio"
                 
                 />
                 </div>
