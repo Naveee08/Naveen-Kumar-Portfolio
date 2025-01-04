@@ -59,17 +59,17 @@ const Experience = () => {
 
                     <ul className='w-full flex flex-col items-start justify-between ml-4 xs:ml-2 ' >
                         <Details
+        position="Technical Mentor - (DSA)" company="FACE Prep"
+        companyLink="https://faceprep.edmingle.com/"
+        time="Jan-2025 - Present" address="Coimbatore, TN"
+        work="Guided students in mastering data structures and algorithms, focusing on problem-solving strategies and competitive programming. Designed and delivered hands-on coding sessions, implemented optimized solutions, and fostered analytical thinking, enabling learners to excel in technical interviews and coding challenges."
+ />
+                        <Details
                                 position="Foundation-Stack Intern" company="Amphisoft Technologies"
                                 companyLink="https://amphisoft.in"
                                 time="Jan-2024 - Jun-2024" address="Coimbatore, TN"
                                 work="Worked on a foundational stack team, gaining hands-on experience in full-stack development. Contributed to building and optimizing web components, troubleshooting issues, and collaborating on cross-functional projects to enhance code efficiency and functionality."
                          />
-                        <Details
-        position="Web Developer Intern" company="BrainerySpot Technology"
-        companyLink="https://braineryspot.com"
-        time="Oct-2023 - Jan-2024" address="Coimbatore, TN"
-        work="Collaborated on a team to build new features for high-traffic websites, enhancing performance, user experience, and SEO optimization. Developed interactive elements and implemented responsive design, enabling data-driven insights and improved site navigation."
- />
 
                     </ul>
                 </div>
