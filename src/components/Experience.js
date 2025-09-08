@@ -58,18 +58,21 @@ const Experience = () => {
                     " />
 
                     <ul className='w-full flex flex-col items-start justify-between ml-4 xs:ml-2 ' >
+
+                       <Details
+        position="Full-Stack Developer" company="Procyon Technostructure"
+        companyLink="https://procyonts.com/"
+        time="Apr-2024 - Present" address="Chennai, TN"
+        work="Developed and optimized RESTful APIs using Java Spring Boot, Postman, and IntelliJ for backend services. Integrated Firebase for authentication and data management. On the frontend, built responsive web applications with React.js and Next.js, implementing API integrations and enhancing overall functionality and user experience."
+/>
+
+                        
                         <Details
         position="Technical Mentor - (DSA)" company="FACE Prep"
         companyLink="https://faceprep.edmingle.com/"
-        time="Jan-2025 - Present" address="Coimbatore, TN"
+        time="Jan-2025 - Mar-2025" address="Coimbatore, TN"
         work="Guided students in mastering data structures and algorithms, focusing on problem-solving strategies and competitive programming. Designed and delivered hands-on coding sessions, implemented optimized solutions, and fostered analytical thinking, enabling learners to excel in technical interviews and coding challenges."
  />
-                        <Details
-                                position="Foundation-Stack Intern" company="Amphisoft Technologies"
-                                companyLink="https://amphisoft.in"
-                                time="Jan-2024 - Jun-2024" address="Coimbatore, TN"
-                                work="Worked on a foundational stack team, gaining hands-on experience in full-stack development. Contributed to building and optimizing web components, troubleshooting issues, and collaborating on cross-functional projects to enhance code efficiency and functionality."
-                         />
 
                     </ul>
                 </div>
@@ -78,3 +81,4 @@ const Experience = () => {
 }
 
 export default Experience
+
