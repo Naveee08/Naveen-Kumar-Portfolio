@@ -59,10 +59,20 @@ const Experience = () => {
 
                     <ul className='w-full flex flex-col items-start justify-between ml-4 xs:ml-2 ' >
 
+                        <Details
+    position="ServiceNow Analyst"
+    company="CubeSimple"
+    companyLink="https://cubesimple.com/"
+    time="Oct-2025 - Jan-2026"
+    address="Chennai, TN"
+    work="Worked as a ServiceNow Analyst handling Incident, and Change Management to ensure SLA compliance and service continuity. Performed root cause analysis for production issues and collaborated with backend and frontend developers to track and validate bug fixes. Utilized Postman to test REST APIs and monitored event-driven systems using Apache Kafka. Used enterprise monitoring tools including Alianza, Neustar, BOSS AX, BOSS OM, SMX, and AMS for incident tracking, service monitoring, and operational support."
+/>
+
+
                        <Details
         position="Full-Stack Developer" company="Procyon Technostructure"
         companyLink="https://procyonts.com/"
-        time="Apr-2024 - Present" address="Chennai, TN"
+        time="Apr-2024 - Oct-2025" address="Chennai, TN"
         work="Developed and optimized RESTful APIs using Java Spring Boot, Postman, and IntelliJ for backend services. Integrated Firebase for authentication and data management. On the frontend, built responsive web applications with React.js and Next.js, implementing API integrations and enhancing overall functionality and user experience."
 />
 
@@ -81,4 +91,5 @@ const Experience = () => {
 }
 
 export default Experience
+
 
