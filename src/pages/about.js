@@ -53,7 +53,7 @@ const about = () => {
                        <div className='grid w-full grid-cols-8 gap-16 sm:gap-8'>
                         <div className="col-span-3 flex flex-col items-start justify-start xl:col-span-4 md:order-2 md:col-span-8">
                             <h2 className='mb-4 text-lg font-bold uppercase text-dark/75 dark:text-light/75'>Biography</h2>
-                            <p className="font-medium">Hi, I’m Naveen Kumar M, a Software Development Engineer at Amazon Pay, currently working on Boson, Amazon's travel-category platform. I'm passionate about building powerful, functional, and user-focused digital solutions across the full stack — from React.js and Redux on the frontend to Java, Spring Boot, and AWS on the backend.</p>
+                            <p className="font-medium">Hi, I’m Naveen Kumar M, a Software Development Engineer at Amazon, currently working on Amazon's travel-category platform. I'm passionate about building powerful, functional, and user-focused digital solutions across the full stack — from React.js and Redux on the frontend to Java, Spring Boot, and AWS on the backend.</p>
                             <p className=" my-4 font-medium">For me, development goes beyond coding – it’s about solving challenges and creating experiences that are both intuitive and enjoyable for users.</p>
                             <p className="font-medium">Whether I'm building AI-first workflows with MCP, RAG pipelines, and LLM integrations, or shipping a feature end-to-end from design to production, I bring my commitment to high standards and user-centered design to every project. I look forward to the opportunity to bring my skills and passion to your next project. </p>
                         </div>
