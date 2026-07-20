@@ -53,9 +53,9 @@ const about = () => {
                        <div className='grid w-full grid-cols-8 gap-16 sm:gap-8'>
                         <div className="col-span-3 flex flex-col items-start justify-start xl:col-span-4 md:order-2 md:col-span-8">
                             <h2 className='mb-4 text-lg font-bold uppercase text-dark/75 dark:text-light/75'>Biography</h2>
-                            <p className="font-medium">Hi, I’m Naveen Kumar M, a web developer and software engineer passionate about building powerful, functional, and user-focused digital solutions. With experience across full-stack development and a range of projects, I constantly seek innovative approaches to bring ideas to life for my clients.</p>
+                            <p className="font-medium">Hi, I’m Naveen Kumar M, a Software Development Engineer at Amazon Pay, currently working on Boson, Amazon's travel-category platform. I'm passionate about building powerful, functional, and user-focused digital solutions across the full stack — from React.js and Redux on the frontend to Java, Spring Boot, and AWS on the backend.</p>
                             <p className=" my-4 font-medium">For me, development goes beyond coding – it’s about solving challenges and creating experiences that are both intuitive and enjoyable for users.</p>
-                            <p className="font-medium">Whether I'm working on an AI-driven application, a website, or a unique digital product, I bring my commitment to high standards and user-centered design to every project. I look forward to the opportunity to bring my skills and passion to your next project. </p>
+                            <p className="font-medium">Whether I'm building AI-first workflows with MCP, RAG pipelines, and LLM integrations, or shipping a feature end-to-end from design to production, I bring my commitment to high standards and user-centered design to every project. I look forward to the opportunity to bring my skills and passion to your next project. </p>
                         </div>
 
                         <div className='col-span-3 relative h-max rounded-2xl border-2 border-solid border-dark
@@ -89,7 +89,7 @@ const about = () => {
 
                             <div className=" flex flex-col items-end justify-center xl:items-center">
                                 <span className='inline-block text-7xl font-bold md:text-6xl sm:text-5xl xs:text-4xl'>
-                                    0.6+
+                                    1.2+
                                 </span>
                                 <h2 className=' text-xl font-medium capitalize text-dark/75 dark:text-light/75 xl:text-center md:text-lg sm:text-base xs:text-sm'>Years of Experiance</h2>
                             </div>
