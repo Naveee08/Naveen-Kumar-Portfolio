@@ -59,6 +59,14 @@ const Experience = () => {
 
                     <ul className='w-full flex flex-col items-start justify-between ml-4 xs:ml-2 ' >
 
+
+                                               <Details
+    position="Software Development Engineer I" company="Amazon (via BCT Payroll)"
+    companyLink="https://www.amazon.com/"
+    time="Mar-2026 - Present" address="India"
+    work="Worked on Boson, Amazon Pay's travel-category platform, building React.js (Hooks) and Redux based frontend components with a reusable localization framework. Hardened backend services on Java Spring Boot with thread-safe design, replica-based database reads, and shared Redis/API client libraries, and improved API resilience through idempotent retry/backoff logic and ELK-based structured logging, while owning end-to-end delivery of a real-time API streaming feature. Delivered LPA payment and cashback integration on the Order Review page with merchant-level PSP customization. Adopted MCP servers, RAG pipelines, and LLM integrations to build AI-first engineering workflows, and set up AWS CloudWatch RUM dashboards along with optimized CodePipeline and S3-based CI/CD pipelines."
+/>
+
                         <Details
     position="ServiceNow Analyst"
     company="CubeSimple"
@@ -75,14 +83,6 @@ const Experience = () => {
         time="Apr-2024 - Oct-2025" address="Chennai, TN"
         work="Developed and optimized RESTful APIs using Java Spring Boot, Postman, and IntelliJ for backend services. Integrated Firebase for authentication and data management. On the frontend, built responsive web applications with React.js and Next.js, implementing API integrations and enhancing overall functionality and user experience."
 />
-
-                        
-                        <Details
-        position="Technical Mentor - (DSA)" company="FACE Prep"
-        companyLink="https://faceprep.edmingle.com/"
-        time="Jan-2025 - Mar-2025" address="Coimbatore, TN"
-        work="Guided students in mastering data structures and algorithms, focusing on problem-solving strategies and competitive programming. Designed and delivered hands-on coding sessions, implemented optimized solutions, and fostered analytical thinking, enabling learners to excel in technical interviews and coding challenges."
- />
 
                     </ul>
                 </div>
