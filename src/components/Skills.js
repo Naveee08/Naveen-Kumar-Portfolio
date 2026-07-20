@@ -42,7 +42,7 @@ const Skills = () => {
             Full-Stack
             
               
-        </motion.div>
+</motion.div>
         <Skill name="CSS" x="-2vw" y="-9vw" />
         <Skill name="Java" x="-8vw" y="9vw" />
         <Skill name="HTML" x="-23vw" y="2vw" />
@@ -57,7 +57,16 @@ const Skills = () => {
         <Skill name="NodeJs" x="15vw" y="-12vw" />
         <Skill name="C Programming" x="-35vw" y="-5vw" />
         <Skill name="DSA" x="-10vw" y="16vw" />
-
+        <Skill name="TypeScript" x="3vw" y="19vw" />
+        <Skill name="Redux" x="-16vw" y="23vw" />
+        <Skill name="Spring Boot" x="9vw" y="-5vw" />
+        <Skill name="AWS" x="27vw" y="16vw" />
+        <Skill name="Redis" x="-32vw" y="12vw" />
+        <Skill name="MCP" x="15vw" y="3vw" />
+        <Skill name="Kafka" x="9vw" y="-19vw" />
+        <Skill name="Firebase" x="-10vw" y="-15vw" />
+        <Skill name="Git" x="-14vw" y="0vw" />
+        <Skill name="Postman" x="-26vw" y="-7vw" />
        </div>
        
        </>
